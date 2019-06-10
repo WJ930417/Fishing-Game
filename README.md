@@ -1,4 +1,4 @@
-# Fishing-g
+# Fishing-Game
 The fishing game is set in the sea where has abundant fishes and a boat that can hook the fish.
 
 The game is based on big-bang program in Racket language to create rules of moving images and key or mouse events. And the sound effects are built using racket/gui and rsound library.
